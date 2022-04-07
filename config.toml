@@ -1,7 +1,7 @@
 baseURL = "https://EleftheriaPistolas.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal website of Emily Cooper"
+title = "Eleftheria Pistolas"
 author = "Eleftheria Pistolas"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
