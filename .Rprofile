@@ -18,5 +18,4 @@ options(
 # pin Hugo version
 options(blogdown.hugo.version = "0.96.0")
 options(blogdown.hugo.dir = 'C:/Workdir/MyApps/Hugo/0.96.0/0.96.0')
-blogdown::serve_site()
 
