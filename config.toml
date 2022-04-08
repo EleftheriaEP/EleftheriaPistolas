@@ -62,7 +62,7 @@ enableEmoji = true
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customheadingFontFamily = "Commissioner"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -101,37 +101,32 @@ enableEmoji = true
 
 [menu]
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
-    url = "/about/"
+    name = "Home"
+    title = "Home"
+    url = "/home/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    title = "Projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
     weight = 4
-    
-  # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
-  [[menu.footer]]
+  [[menu.header]]
     name = "Contact"
-    title = "Contact form"
+    title = "Contact"
     url = "/contact/"
-    weight = 2
+    weight = 5
+    
+
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
