@@ -1,7 +1,7 @@
 ---
 title: "Eleftheria Pistolas"
 subtitle: "Doctoral student"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+description: "I am a doctoral student at the GestaltReVision lab in the Laboratory of Experimental Psychology (KU Leuven) under supervision of Johan Wagemans. My research interests include multisensory perception in aesthetic appreciation, consciousness, technology mediated art experiences and open science. "
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
