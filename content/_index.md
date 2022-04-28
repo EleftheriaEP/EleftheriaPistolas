@@ -1,7 +1,7 @@
 ---
 title: "Eleftheria Pistolas"
 subtitle: "Doctoral student"
-description: "I am a doctoral student at the GestaltReVision lab in the Laboratory of Experimental Psychology (KU Leuven) under supervision of Johan Wagemans. My research interests include multisensory perception in aesthetic appreciation, consciousness, technology mediated art experiences and open science."
+description: "I am currently a doctoral student at the GestaltReVision lab in the Laboratory of Experimental Psychology (KU Leuven) under supervision of Johan Wagemans. My research interests include multisensory perception in aesthetic appreciation, consciousness, technology mediated art experiences and open science."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
